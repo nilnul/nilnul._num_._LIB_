@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._num_._LIB_", "nilnul._num_._LIB_.csproj", "{7891FCE6-DB13-424C-8D10-4E7E816C5743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nilnul._num_._LINQ_", "..\_LINQ_\nilnul._num_._LINQ_.csproj", "{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{7CB43944-D859-4CDE-AD02-B0488F5D44C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		hbue__deptS_ccpOrg___release|Any CPU = hbue__deptS_ccpOrg___release|Any CPU
+		hbue__deptS_ccpOrg|Any CPU = hbue__deptS_ccpOrg|Any CPU
+		Hbue40|Any CPU = Hbue40|Any CPU
+		PreferChinese|Any CPU = PreferChinese|Any CPU
+		Release_PreferChinese|Any CPU = Release_PreferChinese|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Symbol|Any CPU = Symbol|Any CPU
+		Symbols4Debug|Any CPU = Symbols4Debug|Any CPU
+		test_release|Any CPU = test_release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.hbue__deptS_ccpOrg___release|Any CPU.ActiveCfg = hbue__deptS_ccpOrg___release|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.hbue__deptS_ccpOrg___release|Any CPU.Build.0 = hbue__deptS_ccpOrg___release|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.hbue__deptS_ccpOrg|Any CPU.ActiveCfg = hbue__deptS_ccpOrg|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.hbue__deptS_ccpOrg|Any CPU.Build.0 = hbue__deptS_ccpOrg|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Hbue40|Any CPU.ActiveCfg = Hbue40|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Hbue40|Any CPU.Build.0 = Hbue40|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.PreferChinese|Any CPU.ActiveCfg = PreferChinese|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.PreferChinese|Any CPU.Build.0 = PreferChinese|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Release_PreferChinese|Any CPU.ActiveCfg = Release_PreferChinese|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Release_PreferChinese|Any CPU.Build.0 = Release_PreferChinese|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Symbol|Any CPU.ActiveCfg = Symbol|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Symbol|Any CPU.Build.0 = Symbol|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Symbols4Debug|Any CPU.ActiveCfg = Symbols4Debug|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.Symbols4Debug|Any CPU.Build.0 = Symbols4Debug|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.test_release|Any CPU.ActiveCfg = test_release|Any CPU
+		{7891FCE6-DB13-424C-8D10-4E7E816C5743}.test_release|Any CPU.Build.0 = test_release|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.hbue__deptS_ccpOrg___release|Any CPU.ActiveCfg = hbue__deptS_ccpOrg___release|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.hbue__deptS_ccpOrg___release|Any CPU.Build.0 = hbue__deptS_ccpOrg___release|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.hbue__deptS_ccpOrg|Any CPU.ActiveCfg = hbue__deptS_ccpOrg|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.hbue__deptS_ccpOrg|Any CPU.Build.0 = hbue__deptS_ccpOrg|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Hbue40|Any CPU.ActiveCfg = Hbue40|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Hbue40|Any CPU.Build.0 = Hbue40|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.PreferChinese|Any CPU.ActiveCfg = PreferChinese|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.PreferChinese|Any CPU.Build.0 = PreferChinese|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Release_PreferChinese|Any CPU.ActiveCfg = Release_PreferChinese|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Release_PreferChinese|Any CPU.Build.0 = Release_PreferChinese|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Symbol|Any CPU.ActiveCfg = Symbol|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Symbol|Any CPU.Build.0 = Symbol|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Symbols4Debug|Any CPU.ActiveCfg = Symbols4Debug|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.Symbols4Debug|Any CPU.Build.0 = Symbols4Debug|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.test_release|Any CPU.ActiveCfg = test_release|Any CPU
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A}.test_release|Any CPU.Build.0 = test_release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F91AD6D-3D75-4292-ABE9-68E85050DB8A} = {7CB43944-D859-4CDE-AD02-B0488F5D44C4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CC14FC-CD37-4B07-8C2D-001F51CD5476}
+	EndGlobalSection
+EndGlobal
